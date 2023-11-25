@@ -42,3 +42,5 @@ Sit down and relax as you read my story below 🧘‍♀🔥
 
 ### Projects
 - [Framey!](https://github.com/lnikoI/framey) - Custom PHP framework based on laravel
+- [Laracasts - Blog](https://github.com/lnikoI/laracasts-Blog)
+- [Simple CRM](https://github.com/lnikoI/laravel-simple-CRM)
