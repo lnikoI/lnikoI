@@ -29,16 +29,16 @@ Sit down and relax as you read my story below 🧘‍♀🔥
 </div>
 
 ### Projects
-- [Corvus Craft](https://lnikol.duckdns.org/corvus-craft/)
+- [Corvus Craft](https://craft.corvus.live/)
 
 ### Portfolio
-- [Game World](https://lnikol.duckdns.org/portfolio/game-world/)
-- [The Event](https://lnikol.duckdns.org/portfolio/the-event/)
+- [Game World](https://game-world.corvus.live)
+- [The Event](https://the-event.corvus.live)
 
 ### Fun
-- [Cats!](https://lnikol.duckdns.org/cat/)
-- [Ducks!](https://lnikol.duckdns.org/duck/)
-- [Ping](https://lnikol.duckdns.org/ping/)
+- [Cats!](https://cat.corvus.live)
+- [Ducks!](https://duck.corvus.live)
+- [Ping](https://ping.corvus.live)
 
 ### Projects
 - [Framey!](https://github.com/lnikoI/framey) - Custom PHP framework based on laravel
