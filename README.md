@@ -30,7 +30,7 @@ Sit down and relax as you read my story below 🧘‍♀🔥
 
 ### Projects
 - [Corvus Craft](https://corvus-craft.lnikol.com/)
-- [Temp file upload]([https://corvus-craft.lnikol.com/](https://temp-file.lnikol.com/))
+- [Temp file upload](https://temp-file.lnikol.com/)
 
 ### Portfolio
 - [Game World](https://game-world.lnikol.com)
